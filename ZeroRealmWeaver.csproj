@@ -9,21 +9,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Behaviors\" />
-      <Folder Include="Converters\" />
-      <Folder Include="Helpers\" />
-      <Folder Include="Models\Canvas\" />
-      <Folder Include="Models\Devices\" />
-      <Folder Include="Models\Market\" />
-      <Folder Include="Models\Materials\" />
-      <Folder Include="Models\Research\" />
-      <Folder Include="Services\Interfaces\" />
-      <Folder Include="Styles\" />
-      <Folder Include="ViewModels\" />
-      <Folder Include="Views\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.1" />
       <PackageReference Include="HandyControl" Version="3.5.1" />
       <PackageReference Include="HarfBuzzSharp" Version="8.3.1.1" />
